@@ -10,7 +10,9 @@ How to Use This Repository
 
 This repository contains the code I did when I followed along the Django Girls tutorial (https://tutorial.djangogirls.org/en/) during the workshop proper.
 
-Clone the repository (and go inside it), create a virtual environment (and activate), install the Django package, migrate the models, create a superuser and run the local server.::
+Clone the repository (and go inside it), create a virtual environment (and activate), install the Django package, migrate the models, create a superuser and run the local server.
+
+::
 
     $ git clone https://github.com/riclags/django-girls-blog.git
     $ cd django-girls-blog
