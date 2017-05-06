@@ -3,7 +3,7 @@
 
 I would like to congratulate **Barbie**, **Mary Grace** and **Shedee Grace** for having taken part and completed the very first Django Girls CDO workshop! It was an honor coaching this talented group of girls. I hope that as their coach I was able to guide them properly and that I have also met their expectations for the workshop.
 
-Kudos also to the organizers of Django Girls CDO (@djangogirlscdo`<https://twitter.com/djangogirlscdo>`_) for a successful event; thanks for inviting me to be a coach.
+Kudos also to the organizers of Django Girls CDO (@djangogirlscdo_) for a successful event; thanks for inviting me to be a coach.
 
 How to Use This Repository
 --------------------------
@@ -22,3 +22,5 @@ Clone the repository (and go inside it), create a virtual environment (and activ
     (myvenv) django-girls-blog $ python manage.py runserver
     
 The workshop proper was held on May 6, 2017 at the ICT Training and Internship Center (Cagayan de Oro), DICT MC2 Misamis Oriental Office, T. Chaves cor Tiano Brothers Sts., Cagayan de Oro from 8AM to 6PM.
+
+.. _@djangogirlscdo: https://twitter.com/djangogirlscdo
