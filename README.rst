@@ -3,7 +3,7 @@
 
 I would like to congratulate **Barbie**, **Mary Grace** and **Shedee Grace** for having taken part and completed the very first Django Girls CDO workshop! It was an honor coaching this talented group of girls. I hope that as their coach I was able to guide them properly and that I have also met their expectations for the workshop.
 
-Kudos also to the organizers of `Django Girls CDO<https://twitter.com/djangogirlscdo>`_ for a successful event; thanks for inviting me to be a coach.
+Kudos also to the organizers of `Django Girls CDO <https://twitter.com/djangogirlscdo>`_ for a successful event; thanks for inviting me to be a coach.
 
 How to Use This Repository
 --------------------------
